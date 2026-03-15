@@ -4,7 +4,7 @@ import uuid
 import os
 
 app = Flask(__name__)
-app.secret_key = "supersecret"
+app.secret_key = "aa0dfc8b05b2beefd887b0eff536953ba879dc5d47457e5e87fa699aa965e65a"
 
 ADMIN_LOGIN = "admin"
 ADMIN_PASSWORD = "admin123"
